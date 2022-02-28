@@ -52,7 +52,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     </div>
 
     <div class="w3-third w3-center">
-      <img src="images/grad_photo_2.jpg" alt="Black and White Profile" width="275" height="350"></i>
+      <img src="images/Gil_Budar_Danoff.jpg" alt="Black and White Profile" width="275" height="350"></i>
     </div>
   </div>
 </div>
